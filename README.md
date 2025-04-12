@@ -1,5 +1,7 @@
 # HippoVlog: A Long-form Vlog Dataset for Multimodal Memory and Reasoning
 
+Project Website: [https://hippomultimodalmemory.github.io/](https://hippomultimodalmemory.github.io/)
+
 HippoVlog is a novel benchmark dataset designed for evaluating Multimodal Memory and Reasoning (MMR) systems. It consists of 25 long-form daily vlogs (682 minutes total) with naturalistic audiovisual content and 1,000 validated multiple-choice question-answer pairs.
 
 ## Dataset Overview
